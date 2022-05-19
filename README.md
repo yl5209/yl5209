@@ -18,3 +18,7 @@ Hello I am Alfie, I am a passionate game developer with strong game design and d
 ## Portfolio
 I am currently working on a new portfolio website which will replace the current template soon.
 https://yl5209.github.io/
+
+## Contact Me
+Email: alfieluo@outlook.com
+Linkdin: linkedin.com/in/alfieluo/
