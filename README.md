@@ -21,4 +21,5 @@ https://yl5209.github.io/
 
 ## Contact Me
 Email: alfieluo@outlook.com
-Linkdin: linkedin.com/in/alfieluo/
+
+Linkdin: www.linkedin.com/in/alfieluo/
