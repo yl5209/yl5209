@@ -9,6 +9,6 @@ yl5209/yl5209 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-#Yuan (Alfie) Luo
+# Yuan (Alfie) Luo
 
-##Game Designer | Game Developer
+## Game Designer | Game Developer
