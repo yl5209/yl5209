@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 Hello I am Alfie, I am a passionate game developer with strong game design and development skills. I am currently working on multiple Unity project with both teams and solo. I am also a passionate learner, I observe and learn game design techniques while gaming, I also analyzing games from both game design and technical perspective, and formed a lot of opinions towards games.
 
+I am currently actively looking for full-time game design positions including **game designer** and **technical game designer**.
+
 ## Current Projects & Topics
 - Ball Animals: A competitive 4-player party game made in Unity with a team of 10
 - Generate dungeons using wave function collapse algorithm
